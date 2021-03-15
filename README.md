@@ -1,7 +1,7 @@
 # Regression_Techniques-House_Prices
 House Prices - Advanced Regression Techniques
 # Regression_Techniques_House-Prices
-Lot of Advanced Regression Technique are used on this project
+Advanced Regression Technique are used on this project
 
 ## Task 
 To predict the sales price for each house.
